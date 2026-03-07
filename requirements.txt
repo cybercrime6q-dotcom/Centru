@@ -1,4 +1,0 @@
-flask
-gunicorn
-firebase-admin
-pip install flask-cors
