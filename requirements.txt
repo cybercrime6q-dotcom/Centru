@@ -1,0 +1,11 @@
+flask
+gunicorn
+firebase-admin
+google-cloud-firestore
+grpcio
+google-api-core
+google-auth
+google-cloud-core
+proto-plus
+googleapis-common-protos
+google-crc32c
