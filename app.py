@@ -11,7 +11,7 @@ bucket = None
 # ============================
 # API KEYS CONFIGURATION
 # ============================
-SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://dsgpad1rv.supabase.co")
+SUPABASE_URL = os.environ.get("SUPABASE_URL", "")
 SUPABASE_ANON_KEY = os.environ.get("SUPABASE_ANON_KEY", "")
 SUPABASE_PROJECT_ID = "dsgpad1rv"
 
