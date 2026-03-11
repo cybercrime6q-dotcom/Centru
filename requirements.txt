@@ -1,0 +1,44 @@
+# ==========================================
+# Web Framework & Server
+# ==========================================
+flask
+flask-cors
+gunicorn
+
+# ==========================================
+# Environment Configuration
+# ==========================================
+python-dotenv
+
+# ==========================================
+# HTTP Requests
+# ==========================================
+requests
+
+# ==========================================
+# Agora (Video / Voice Token Server)
+# ==========================================
+agora-token-builder
+
+# ==========================================
+# Supabase (Database / Auth / Realtime)
+# ==========================================
+supabase
+
+# ==========================================
+# Firebase & Google Cloud
+# ==========================================
+firebase-admin
+google-cloud-firestore
+google-api-core
+google-auth
+google-cloud-core
+google-crc32c
+googleapis-common-protos
+grpcio
+proto-plus
+
+# ==========================================
+# Media Storage
+# ==========================================
+cloudinary
